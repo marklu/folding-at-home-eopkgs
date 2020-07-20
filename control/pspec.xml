@@ -16,7 +16,7 @@ stopping and pausing of the running projects is also possible, as is
 viewing the logs. It provides an Advanced view with
 additional information and settings for enthusiats and gurus.</Description>
         <License>Custom - https://foldingathome.org/support/faq/opensource/</License>
-        <Archive sha1sum="28691545341b46084f8e35d32d45fb81148c8a51" type="binary">https://download.foldingathome.org/releases/public/release/fahcontrol/debian-stable-64bit/v7.6/fahcontrol_7.6.9-1_all.deb</Archive>
+        <Archive sha1sum="f94729ff0126aec4a4fa7f6f0d8b407823276951" type="binary">https://download.foldingathome.org/releases/public/release/fahcontrol/debian-stable-64bit/v7.6/fahcontrol_7.6.13-1_all.deb</Archive>
     </Source>
     <BuildDependencies>
         <Dependency>gnome-python</Dependency>
@@ -30,8 +30,8 @@ additional information and settings for enthusiats and gurus.</Description>
 
     <History>
         <Update release="1">
-            <Date>04-17-2020</Date>
-            <Version>7.6.9</Version>
+            <Date>05-05-2020</Date>
+            <Version>7.6.13</Version>
             <Name>Isaac Boehman</Name>
             <Email>isaac@boehman.me</Email>
         </Update>

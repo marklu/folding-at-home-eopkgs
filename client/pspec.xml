@@ -14,7 +14,7 @@ and run Folding@home work units. To monitor and control the console
 client it is best to use either Web Control via your browser, or the
 Graphical User Interface called FAHControl, provided in a separate package.</Description>
         <License>Custom - https://foldingathome.org/support/faq/opensource/</License>
-        <Archive sha1sum="84bde965bd35a5948152e89967bc89f20239881c" type="binary">https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/v7.6/fahclient_7.6.9_amd64.deb</Archive>
+        <Archive sha1sum="6996952ee585b72c1410b08dde59f0ebfc6765a5" type="binary">https://download.foldingathome.org/releases/public/release/fahclient/debian-stable-64bit/v7.6/fahclient_7.6.13_amd64.deb</Archive>
 
         <BuildDependencies>
             <Dependency>bzip2</Dependency>
@@ -35,8 +35,8 @@ Graphical User Interface called FAHControl, provided in a separate package.</Des
 
     <History>
         <Update release="1">
-            <Date>04-17-2020</Date>
-            <Version>7.6.9</Version>
+            <Date>05-05-2020</Date>
+            <Version>7.6.13</Version>
             <Name>Isaac Boehman</Name>
             <Email>isaac@boehman.me</Email>
         </Update>
